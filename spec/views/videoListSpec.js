@@ -24,4 +24,4 @@ describe('VideoListView', function() {
     expect(view.render).to.have.been.called;
   });
 
-});
+});//
